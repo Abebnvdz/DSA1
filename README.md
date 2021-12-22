@@ -1,2 +1,2 @@
-# Data Science and Analytics - Abe's Porfolio
+# Data Science and Analytics Course - Abe's Porfolio
 
